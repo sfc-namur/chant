@@ -1,0 +1,107 @@
+header
+{
+ background-image:url('../images/favicon.png');
+ background-attachment: scroll;
+ background-repeat: no-repeat;
+ background-position: 4% 5%;
+}
+
+body 
+{ 
+ background-color:#656162;
+ color : white;
+} 
+
+h2
+{
+ font-family: Comic Sans MS;
+ text-decoration: underline;
+}
+.text 
+{
+ margin-left: 22%;
+ margin-right: 21%;
+}
+
+.textcenter
+{
+ text-align: center;
+ margin-left: 22%;
+ margin-right: 21%;
+}
+
+.info
+{
+ font-family: Mool Boran;
+ color: red;
+ font-size: 90%;
+ font-style: italic;
+ text-align:center;
+}
+
+table
+{
+ margin:auto;
+ text-align:center;
+ width:80%;
+ border:1px solid #F37846;
+}
+
+td
+{
+ text-align:center;
+ vertical-align:middle;
+ border:1px solid #F37846;
+}
+
+tr
+{
+ empty-cells:hide;
+ border:1px solid #F37846;
+}
+
+.c1
+{
+ width:20%;
+ color:lightblue;
+}
+
+.c2
+{
+ color:lightblue;
+ font-weight:bold;
+}
+
+b
+{
+ color:#F37846;
+}
+
+i
+{
+ color:#F37846;
+}
+
+a
+{
+color: white;
+text-decoration: none;
+}
+
+a:hover
+{
+text-decoration: none;
+color: lightgrey;
+}
+
+textarea
+{
+overflow-y: scroll
+}
+
+label
+{
+display: block;
+width: 200px;
+float: left;
+}

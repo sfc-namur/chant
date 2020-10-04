@@ -1,1 +1,2 @@
-# chant
+# sfcnamur
+SFC Namur GitHub repo
